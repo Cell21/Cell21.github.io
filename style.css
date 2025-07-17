@@ -1,0 +1,32 @@
+body{
+    background-color:darkslategray;
+}
+
+.title_image_div{
+    display: flex;
+    justify-content: center;
+}
+#title_image {
+    max-width: 25%;
+    max-height: 25%;
+}
+
+.search_box{
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.card_image_div{
+    display: flex;
+    justify-content: center;
+}
+#card_image {
+    max-width: 15%;
+    max-height: 15%;
+}
+
+#results{
+    display: flex;
+    justify-content:baseline;
+
+}
